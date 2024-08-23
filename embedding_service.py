@@ -23,4 +23,4 @@ def get_embedding():
 
 if __name__ == '__main__':
 
-    app.run(port=5000)  # Run the Flask app on port 5000
+    app.run()  # Run the Flask app 
